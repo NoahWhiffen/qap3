@@ -6,7 +6,17 @@
 
 ### Screenshots of program output
 
-![Image of Exercise 1 output](./images/Exercise1.png)
+#### Exercise 1
+
+![Image of Exercise 1's output](./images/Exercise1.png)
+
+#### Exercise 2
+
+#### Exercise 3
+
+#### Exercise 4
+
+---
 
 ### Please see below my answers to the assessment questions.
 
