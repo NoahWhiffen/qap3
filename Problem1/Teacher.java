@@ -11,7 +11,7 @@ class Teacher extends Person {
     // String method
     @Override
     public String toString() {
-        return super.toString() + " Teaches: " + subject + " Annual Salary: " + salary;
+        return super.toString() + " | Teaches: " + subject + " | Annual Salary: " + salary;
     }
 
     // Getter methods

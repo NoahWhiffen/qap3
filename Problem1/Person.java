@@ -11,7 +11,7 @@ class Person {
 
     // String method
     public String toString() {
-        return "Name: " + name + " Age: " + age + " Gender: " + gender;
+        return "Name: " + name +  " | Age: " + age + " | Gender: " + gender;
     }
 
     // Getter methods

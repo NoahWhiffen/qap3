@@ -11,7 +11,7 @@ class Student extends Person {
     // String method
     @Override
     public String toString() {
-        return super.toString() + " ID Num: " + idNum + " GPA: " + gpa;
+        return super.toString() + " | ID Num: " + idNum + " | GPA: " + gpa;
     }
 
     // Getter methods

@@ -10,7 +10,7 @@ class CollegeStudent extends Student {
 
     // String method
     public String toString() {
-        return super.toString() + " Major: " + major + " Year of Study: " + year;
+        return super.toString() + " | Major: " + major + " | Year of Study: " + year;
     }
 
     // Getter methods

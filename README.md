@@ -4,11 +4,15 @@
 
 ---
 
+### Screenshots of program output
+
+![Image of Exercise 1 output](./images/Exercise1.png)
+
 ### Please see below my answers to the assessment questions.
 
-- How many hours did it take you to complete this assessment? (Please keep try to keep track of how many hours you have spent working on each individual part of this assessment as best you can - an estimation is fine; we just want a rough idea.)
+- *How many hours did it take you to complete this assessment? (Please keep try to keep track of how many hours you have spent working on each individual part of this assessment as best you can - an estimation is fine; we just want a rough idea.)*
 
-*answer here*
+Problem 1 only took me about an hour and a half.
 
 - What online resources you have used? (My lectures, YouTube, Stack overflow etc.)
 
