@@ -1,8 +1,8 @@
 package Problem2;
 
 class Point {
-    float x;
-    float y;
+    private float x;
+    private float y;
 
     // Default constructor
     public Point() {
