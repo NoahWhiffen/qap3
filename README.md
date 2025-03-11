@@ -1,7 +1,6 @@
 # Java - QAP 3
 
-## Noah Whiffen - SD12
-## Started on March 10th, 2025 - Finished on ??
+## Noah Whiffen - SD12 --- Started on March 10th, 2025 - Finished on ??
 
 ---
 
