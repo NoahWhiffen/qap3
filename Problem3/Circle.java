@@ -1,5 +1,5 @@
 package Problem3;
 
-public class Circle {
+class Circle extends Ellipse {
     
 }
