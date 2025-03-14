@@ -22,7 +22,7 @@
 
 - *How many hours did it take you to complete this assessment? (Please keep try to keep track of how many hours you have spent working on each individual part of this assessment as best you can - an estimation is fine; we just want a rough idea.)*
 
-Problem 1 only took me about an hour and a half.
+Problem 1 only took me about an hour and a half. Problem2 took me 2 hours. 
 
 - What online resources you have used? (My lectures, YouTube, Stack overflow etc.)
 
