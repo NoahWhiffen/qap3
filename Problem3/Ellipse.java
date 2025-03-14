@@ -26,4 +26,9 @@ class Ellipse extends Shape {
     public double perimeter() {
         return Math.PI * (3 * (a + b) - Math.sqrt((3 * a + b) * (a + 3 * b)));
     }
+    
+    @Override
+    public String toString() {
+        return "Ellipse with semi-major axis: " + a + " and semi-minor axis: " + a;
+    }
 }

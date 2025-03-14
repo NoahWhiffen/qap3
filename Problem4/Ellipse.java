@@ -31,4 +31,9 @@ class Ellipse extends Shape {
         a *= factor;
         b *= factor;
     } 
+
+    @Override
+    public String toString() {
+        return "Ellipse with semi-major axis: " + a + " and semi-minor axis: " + a;
+    }
 }

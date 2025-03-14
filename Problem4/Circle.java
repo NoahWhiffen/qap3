@@ -20,4 +20,9 @@ class Circle extends Ellipse {
         a *= factor; // scale the radius
         b = a; // since it's a circle, both axes are the same
     }
+
+    @Override
+    public String toString() {
+        return "Circle with radius: " + a;
+    }
 }

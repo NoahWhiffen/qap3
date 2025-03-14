@@ -15,4 +15,9 @@ class Circle extends Ellipse {
     public double perimeter() {
         return 2 * Math.PI * a;
     }
+
+    @Override
+    public String toString() {
+        return "Circle with radius: " + a;
+    }
 }
